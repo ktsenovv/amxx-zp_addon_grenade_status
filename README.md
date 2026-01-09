@@ -6,6 +6,7 @@
 
 # :globe_with_meridians: Official Forum Threads:
 **[EN]** https://forums.alliedmods.net/showthread.php?t=113711<br />
+**[BG]** https://cs-bg.info/forum/viewtopic.php?p=1595729<br />
 **[BG]** https://amxx-bg.info/forum/viewtopic.php?t=7373
 
 <br />
