@@ -1,6 +1,6 @@
 <h1 align="center">[ZP] Addon: Grenade Status v1.2</h1>
 
-<p align="center"><img src="https://raw.githubusercontent.com/kpuc313/AMXX-ZP_Addon_Grenade_Status/master/preview.jpg" width="700px"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/h4k70rx/AMXX-ZP_Addon_Grenade_Status/master/preview.jpg" width="700px"></p>
 
 <br />
 
